@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "91649710679",
+    "project_id": "masayat-8c4af",
+    "storage_bucket": "masayat-8c4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91649710679:android:81c76020ef3764304b6112",
+        "android_client_info": {
+          "package_name": "com.Sammour.Masayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91649710679-ubvif3btcubblfi18n8bnt4kse4l5o8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Sammour.Masayat",
+            "certificate_hash": "2171f75229113e1ff0f09a03479709118428071a"
+          }
+        },
+        {
+          "client_id": "91649710679-18r1nnv9qvkr1ps6iqcr748egmdl3g3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeAbaDX8ebeyS9T5CGdNHTKPJFley85M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91649710679-18r1nnv9qvkr1ps6iqcr748egmdl3g3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91649710679-9rhnk3mfm97jh0is9rigboo720u016cb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Sammour.Masayat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

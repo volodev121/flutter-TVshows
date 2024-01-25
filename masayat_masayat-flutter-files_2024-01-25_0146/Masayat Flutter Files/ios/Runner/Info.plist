@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.Sammour.Masayat</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Nexthour</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>nexthour</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>ADD_YOUR_FB_CLIENT_ID</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>ADD_YOUR_GOOGLE_CLIENT_ID</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string></string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.Sammour.Masayat.payments</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.Sammour.Masayat.payments</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.Sammour.Masayat</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>amzn-com.Sammour.Masayat</string>
+			</array>
+		</dict>
+	</array>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-7134424213701089~9230909335</string>
+	<key>SKAdNetworkItems</key>
+	<array>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FDAllFilesDownloadedMessage</key>
+	<string>All files have been downloaded</string>
+	<key>FDMaximumConcurrentTasks</key>
+	<integer>5</integer>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<true/>
+	<key>FacebookAppID</key>
+	<string>ADD_YOUR_FB_APP_ID</string>
+	<key>FacebookDisplayName</key>
+	<string>NeTV</string>
+	<key>LSApplicationQueriesScheme</key>
+	<array>
+		<string>paytm</string>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+
+	<key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>fb{your-app-id}</string>
+        </array>
+      </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>{your-app-id}</string>
+    <key>FacebookClientToken</key>
+    <string>CLIENT-TOKEN</string>
+    <key>FacebookDisplayName</key>
+    <string>{your-app-name}</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>fbapi</string>
+      <string>fb-messenger-share-api</string>
+      <string>fbauth2</string>
+      <string>fbshareextension</string>
+    </array>
+
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Not Required</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Not Required</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Bluetooth is used to communicate with BLE devices.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_googlecast._tcp</string>
+	</array>
+	<key>APIKey</key>
+	<string>eyJhbGciOiJSU0EtU0hBMjU2IiwidmVyIjoiMSJ9.eyJ2ZXIiOiIzIiwiZW5kcG9pbnRzIjp7ImF1dGh6IjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcC9vYSIsInRva2VuRXhjaGFuZ2UiOiJodHRwczovL2FwaS5hbWF6b24uY29tL2F1dGgvbzIvdG9rZW4ifSwiY2xpZW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1vYTItY2xpZW50LjBmNGVjMDA2OWM2OTRiNDdhNGE2MzMwZDg1MzQ1YzFjIiwiYXBwRmFtaWx5SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi45MDAwNGU5YTBhZTA0YmFlYmFkMDM3NTM2ZWFjMzUzNyIsImlzcyI6IkFtYXpvbiIsInR5cGUiOiJBUElLZXkiLCJwa2ciOiJjb20ubWVkaWFjaXR5Lm5leHRob3VyIiwiYXBwVmFyaWFudElkIjoiYW16bjEuYXBwbGljYXRpb24tY2xpZW50Ljg0MGJjMmM3MjVlZDQ3Nzk5NzdjNzUzYjliZjMzYjQ2IiwidHJ1c3RQb29sIjpudWxsLCJhcHBzaWdTaGEyNTYiOiIyQzpBNDoxNjo4MzozQTpFRDo2Mjo3NTo5NzpEMDo3QTo5Rjo1NTo4MToxNDpGRTo0NzozOTowODo3MjpCRTo5Njo2QjpCQzo3Nzo5RDoyNDpGNTpGNDozRDo1Mzo4QyIsImFwcHNpZyI6IjI5OjcwOkVFOkQwOkFGOjFFOkY3OjJGOkJEOjM1OjQzOkEwOjU2OjJFOkIyOjQ2IiwiYXBwSWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1jbGllbnQuODQwYmMyYzcyNWVkNDc3OTk3N2M3NTNiOWJmMzNiNDYiLCJpZCI6IjVmMDNkOTBmLTljNjYtNDBhOC05MTU1LTI5ZDU5Mjk2NjkxYyIsImlhdCI6IjE2MjgwNjAyMDc5NDYifQ==.o9T6iCnHm7cnNfI/9XxOZwieek21upzv+EhI4BN4x7gyzlz4WQDS1zcUiMNGDJUHEQ/EKgOrIAWRi/7KpuZb+LlLuXixsN5VU1gy2B3tQb0Y96/Azh33yBc+9OSkOZ/fxgl6X+oZ+Dbdk7642ISFPzpHqlXTvqrL4rKmDPa7EUyr0VFg3XMqub1VLbVlcUI+S+BfSWLEJN9pKXVl7XlvUo1A0hqu2XvreQeH30lEBTpSSZ6Ryiwijg0SatwEsadeTCnW6FRhkKjoOccls7pTYyuB/Rq23eUQmxXN0e4XgHPCAovNXXWNYrkPILMGDrxgnr+VtpYMDqd0YzcXyX5/7g==</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Used to Select user DOB</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs this permission for capture your profile picture</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Used to share Content</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Used to search for chromecast devices</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Not Required</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Not Required</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Used to detect Device Orientation</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Used to Select user profile Picture</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Used to type</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+</dict>
+</plist>
